@@ -1,0 +1,10 @@
+
+div .row .col {
+	border: 1px solid black;
+	box-sizing: border-box;
+display: table-cell;
+border-collapse: collapse;
+}
+.row {
+	min-height: 100px;
+}
